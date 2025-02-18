@@ -25,4 +25,3 @@ The course for anyone with a fair bit of PowerShell scripting experience that wa
 
 ![](https://www.advania.se/library/Template/logo_o.png)
 
-Osse ändringen
